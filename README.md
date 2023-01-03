@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbdanquah2
+- 👋 Hi, I’m John!
 - 👀 I’m interested in Full stack develpment and Data Analytics roles
 - 🌱 I’m currently in the ALX Software Engieerning program
 - 💞️ I’m looking to collaborate on JS/Python related projects
