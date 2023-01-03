@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbdanquah2
-- 👀 I’m interested in Support Enginering and Data Analytics roles
+- 👀 I’m interested in Full stack develpment and Data Analytics roles
 - 🌱 I’m currently in the ALX Software Engieerning program
-- 💞️ I’m looking to collaborate on Python/JS related projects
+- 💞️ I’m looking to collaborate on JS/Python related projects
 - 📫 How to reach me? Email: yjbdanquah[at]gmail.com
 
 
