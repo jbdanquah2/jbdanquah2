@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John!
-- 👀 I am Software Engineer with skills in Angular, Node.js,
+- 👀 I am Software Engineer with skills in Angular, Node.js, MongoDb, AWS, Google Cloud, Firebase/Firestore, SQL etc
 - 🌱 I’m currently working for OnlineCourseHost.com as Fullstack Developer
 - 📫 How to reach me? Email: yjbdanquah[at]gmail.com
 
