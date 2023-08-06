@@ -1,7 +1,6 @@
 - 👋 Hi, I’m John!
-- 👀 I’m interested in Full stack develpment and Data Analytics roles
-- 🌱 I’m currently in the ALX Software Engieerning program
-- 💞️ I’m looking to collaborate on JS/Python related projects
+- 👀 I am Software Engineer with skills in Angular, Node.js,
+- 🌱 I’m currently working for OnlineCourseHost.com as Fullstack Developer
 - 📫 How to reach me? Email: yjbdanquah[at]gmail.com
 
 
