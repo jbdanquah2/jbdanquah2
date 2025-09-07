@@ -2,19 +2,7 @@
 
 I am a Software Engineer with expertise in Angular, Node.js, MongoDB, AWS, Google Cloud, Firebase/Firestore, SQL, and more.
 
-## Development Team Lead
-
-- **Role:** Led and managed a team of 10 developers.
-- **Expertise:** Angular, NestJS, Node.js, SQL, Firebase, Firestore, Google Cloud, MongoDB, AWS.
-- **Projects Led:**
-  - AI Assistant for Course Creators
-  - AI Assistant for Students
-  - Course Review System
-  - Student Community Platform for Course Creators
-  - Stripe/PayPal Integration
-  - Course Assessment System
-- **AI Focus:** Building intelligent tools for education, empowering instructors and learners.
-- **Current:** Working for OnlineCourseHost.com as a Fullstack Developer.
+- **Current:** Working for OnlineCourseHost.com as a Team Lead/Fullstack Developer.
 
 > “Failure is good for your health :)”
 
