@@ -1,52 +1,33 @@
-# 👋 Hi, I’m John!
+# Hi, I'm John 👋
 
-I am a Software Engineer with expertise in Angular, Node.js, MongoDB, AWS, Google Cloud, Firebase/Firestore, SQL, and more.
+**Technical Lead & Software Engineer** at [HuesApply](https://huesapply.com), building AI-native products, scalable SaaS platforms, and cloud infrastructure. Based in Accra, working remote.
 
-- **Current:** Working for OnlineCourseHost.com as a Team Lead/Fullstack Developer.
+- 🔭 Currently leading engineering on an AI-native job/opportunity-matching platform (LLM-powered CV parsing, structured extraction, matching)
+- 🌍 Portfolio: [john-danquah-boateng.web.app](https://john-danquah-boateng.web.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yjbdanquah/) · 🐦 [Twitter](https://twitter.com/yjbdanquah) · 📫 yjbdanquah@gmail.com
 
-> “Failure is good for your health :)”
+## Some things I've built
 
-## 📫 How to reach me
-Email: yjbdanquah[at]gmail.com
+- **[SecureRepo](https://secure-repo.com)** — securely share time-limited, monitored access to private GitHub repos ([source](https://github.com/jbdanquah2/secure-repo))
+- **[iNNkie](https://github.com/jbdanquah2/innkie.com)** — multi-tenant SaaS utility platform (URL shortener, QR studio, dev tools) with white-labeled workspaces
+- **[A&J Edu. Consult Portal](https://github.com/jbdanquah2/aj-edu-consult)** — scholar management portal with live classes and Paystack-billed sessions
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbdanquah) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yjbdanquah)
+More (including AI/ML and larger SaaS work) on the [portfolio site](https://john-danquah-boateng.web.app/projects).
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2300C8FF.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+## Tech stack
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jbdanquah2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jbdanquah2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbdanquah2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jbdanquah2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=yjbdanquah)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=jbdanquah2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbdanquah2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbdanquah2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
