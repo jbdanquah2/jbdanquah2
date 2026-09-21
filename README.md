@@ -8,12 +8,12 @@
 
 ## Some things I've built
 
-**Production SaaS I lead/own** (closed-source, live products):
+**At work:**
 - **[HuesApply](https://huesapply.com)** — AI-native platform for African students to discover and apply for global jobs, scholarships, and grants (LLM-powered CV parsing, opportunity matching)
+
+**Independent projects** (closed-source unless noted):
 - **[SukuuFlow](https://sukuuflow.com)** — multi-tenant school management SaaS for Ghanaian schools, with Postgres row-level security for tenant isolation
 - **[SikaFlow](https://sikaflow-29785.web.app/login)** — multi-branch retail management & POS platform (inventory, sales, staff roles, register shifts)
-
-**Open source / side projects** (public repos):
 - **[SecureRepo](https://secure-repo.com)** — securely share time-limited, monitored access to private GitHub repos ([source](https://github.com/jbdanquah2/secure-repo))
 - **[iNNkie](https://innkie.com)** — multi-tenant SaaS utility platform (URL shortener, QR studio, dev tools) with white-labeled workspaces ([source](https://github.com/jbdanquah2/innkie.com))
 - **[A&J Edu. Consult Portal](https://ajeduconsult.com)** — scholar management portal with live classes and Paystack-billed sessions ([source](https://github.com/jbdanquah2/aj-edu-consult))
